@@ -1,7 +1,7 @@
 import numpy as np
 m = 3
 m2 = m ** 2
-q = np.zeros(m2)
+q = np.zeros(m2)     # Burada q, ilk olasılık dağılımıdır.
 q[m2 // 2] = 1
 def get_P(m,p_up,p_down,p_left,p_right):
         m2= m**2
