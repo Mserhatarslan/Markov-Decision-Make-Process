@@ -24,6 +24,7 @@ n=100
 Bunun nedeni, sistemin birkaç adımdan sonra neredeyse kararlı bir duruma ulaşmasıdır. 
 Yani 10, 100 veya 1.000 adımdan sonra robotu belirli bir durumda bulma şansımız hemen hemen aynıdır.
 
+
 ![image](https://user-images.githubusercontent.com/63358327/168472146-2624177a-415e-4e1a-a9d6-dae31637ab83.png)
 
 
