@@ -19,3 +19,6 @@ n=100
 
 
 
+10 adım ve 100 adımdan sonraki olasılık dağılımının çok benzer olduğunu fark edebilirsiniz. 
+Bunun nedeni, sistemin birkaç adımdan sonra neredeyse kararlı bir duruma ulaşmasıdır. 
+Yani 10, 100 veya 1.000 adımdan sonra robotu belirli bir durumda bulma şansımız hemen hemen aynıdır.
