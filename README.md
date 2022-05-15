@@ -1,5 +1,6 @@
 # Markov-Decision-Make-Process
 
+# Grid World Example 
 Çıktı bize merkezden başlayan robotun 0.2 olasılıkla bir üst hücre, 0.3 olasılıkla bir aşağı hücre vb. olacağını söylüyor. 
 Bunu 3, 10 ve 100 adım için yapalım. Sonuçlar şurada gösterilir:
 
