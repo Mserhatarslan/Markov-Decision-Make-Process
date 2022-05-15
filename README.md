@@ -25,3 +25,10 @@ Bunun nedeni, sistemin birkaç adımdan sonra neredeyse kararlı bir duruma ula�
 Yani 10, 100 veya 1.000 adımdan sonra robotu belirli bir durumda bulma şansımız hemen hemen aynıdır.
 
 ![image](https://user-images.githubusercontent.com/63358327/168472146-2624177a-415e-4e1a-a9d6-dae31637ab83.png)
+
+
+q, ilk olasılık dağılımıdır.
+× geçiş olasılık matrisini veren bir fonksiyon tanımladık
+
+Kod, sadece yukarı-aşağı-sağa-sola gitme olasıklıklarına göre bir nxn geçiş olasılığı matrisini(transition probability matrix) üzerinden işlemler yapar.
+sadece belirtilen yukarı, aşağı, sola ve sağa gitme olasılıklarına göre bir n×n geçiş olasılığı matrisini doldurur.
